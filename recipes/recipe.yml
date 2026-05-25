@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
-name: my_bazzite # <-- MUST be lowercase to satisfy OCI registry standards
+name: mybluebuild # <-- MUST be lowercase to satisfy OCI registry standards
 description: Custom gaming OS image for the Steam Deck with RetroDeck, Ryujinx, Kodi, Stremio, and autostarting Syncthing, Tailscale, & Decky.
 
 base-image: ghcr.io/ublue-os/bazzite-deck
